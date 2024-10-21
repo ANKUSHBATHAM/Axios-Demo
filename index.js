@@ -11,3 +11,5 @@ async function fetchJoke() {
 const greet = require("greet-name-package");
 
 console.log(greet("Gaurav Prajapat"));
+
+console.log(greet("Navin Soni"));
